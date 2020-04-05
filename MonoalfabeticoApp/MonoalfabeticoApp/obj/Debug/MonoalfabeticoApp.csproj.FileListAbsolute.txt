@@ -1,0 +1,9 @@
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\bin\Debug\MonoalfabeticoApp.exe.config
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\bin\Debug\MonoalfabeticoApp.exe
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\bin\Debug\MonoalfabeticoApp.pdb
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\obj\Debug\MonoalfabeticoApp.Form1.resources
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\obj\Debug\MonoalfabeticoApp.Properties.Resources.resources
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\obj\Debug\MonoalfabeticoApp.csproj.GenerateResource.Cache
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\obj\Debug\MonoalfabeticoApp.exe
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\obj\Debug\MonoalfabeticoApp.pdb
+c:\users\gerar\documents\visual studio 2015\Projects\MonoalfabeticoApp\MonoalfabeticoApp\obj\Debug\MonoalfabeticoApp.csprojResolveAssemblyReference.cache
